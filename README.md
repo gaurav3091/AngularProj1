@@ -3,6 +3,10 @@ Angular Fundamentals Course
 
 The course is out of date. Angular 1.5 has released, and although all the code in this course works with 1.5, there is the new feature of components which you should learn about. Checking out Pluralsight's course on Angular 1.5 components after this course will keep you up to date.
 
+******Gaurav Comments
+I is for Insert mode command, Press Escape to get out of all mode. :q to quit without saving and :x for quit after saving.
+
+
 **Testing Module:**
 The testing portion of the course uses two files which weren't created in the course: UserData.js and UserResource.js. This was done to highlight testing services with dependencies. You can find those files in this github repo, and add them to your project so that you can follow along with the testing chapter.
 
